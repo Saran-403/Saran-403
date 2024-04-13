@@ -55,6 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saran-403&" alt="streak stats" />
   <img width=390 src="https://github-readme-streak-stats.vercel.app/api?username=Saran-403&theme=dark&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Saran-403&theme=react&border_radius=10" alt="streak stats"/>
 
