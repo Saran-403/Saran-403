@@ -10,3 +10,13 @@
 
 
 <br/>
+
+- 🔭 Here's my [portfolio]
+- 🌱 I’m currently learning Machine Learning, Block chain and Cloud computing
+- 👯 I’m looking to collaborate on OpenSource Projects
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ssrisarangan5@gmail.com)
+
+
+
