@@ -53,7 +53,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio.png" alt="visual-studio"/> <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>  <img width="50" height="50" src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/external-Railway-railway-station-inipagistudio-mixed-inipagistudio.png" alt="external-Railway-railway-station-inipagistudio-mixed-inipagistudio"/><img width="50" height="50" src="https://cdn.icon-icons.com/icons2/3375/PNG/512/vercel_brand_icon_211876.png"/>
 </div>
 
-<h2 align="center"> 💻 Workspace Spec 💻
+<h2 align="center"> 💻 Workspace Spec 💻</h2>
 <br>
 <div>
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
