@@ -66,13 +66,9 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Saran-403&theme=react&border_radius=10" alt="streak stats" />
 
   <img  src="https://github-readme-stats.vercel.app/api?username=Saran-403&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saran-403&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
  </div>
-
-
 
 
 
