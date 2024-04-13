@@ -34,7 +34,7 @@
       <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
    </a>
    <a href="https://www.hackerrank.com/profile/ssrisarangan5" target="_blank">
-      <img src="https://www.hackerrank.com/profile/ssrisarangan5" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
    </a>
  </div>
 
