@@ -17,7 +17,7 @@
 - 💬 Ask me about Tech
 - 📫 How to reach me :
  
-<br/><div> 
+<div> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
