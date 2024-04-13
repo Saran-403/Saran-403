@@ -40,7 +40,7 @@
 
  <hr/>
 
-<h2 align="center">💡 I code in 💡</h2>
+<h1 align="center">💡 I code in 💡</h1>
 <br>
 <div>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/> <img height="50" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-2-283051.png?f=webp&w=256"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
