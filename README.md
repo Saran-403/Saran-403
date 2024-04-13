@@ -30,11 +30,11 @@
    <a href="https://www.instagram.com/_http_error_403_/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
    </a>
-   <a href="https://stackoverflow.com/users/22817048/srisarangan403" target="_blank">
-      <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-   </a>
    <a href="https://www.hackerrank.com/profile/ssrisarangan5" target="_blank">
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+   </a>
+   <a align="Center" href="https://stackoverflow.com/users/22817048/srisarangan403" target="_blank">
+      <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
    </a>
  </div>
 
