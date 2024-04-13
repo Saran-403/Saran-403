@@ -69,7 +69,7 @@
   
 
   <br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saran-403&show_icons=true&locale=en&layout=compact" alt="krishnaananthamsamahithan" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saran-403&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Saran-403&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
 </div>
 
