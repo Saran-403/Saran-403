@@ -50,3 +50,9 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
+ <hr/>
+
+![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saran-403&theme=dark&show_icons=true&&hide=issues,contribs)
+[![Sri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saran-403&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
