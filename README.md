@@ -69,6 +69,7 @@
   
 
   <br/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saran-403&show_icons=true&locale=en&layout=compact" alt="krishnaananthamsamahithan" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saran-403&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
