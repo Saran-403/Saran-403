@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center"> A fervent individual skilled in software engineering and data science</h3>
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)">
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 <br/>
