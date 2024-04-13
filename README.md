@@ -16,9 +16,8 @@
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 💬 Ask me about Tech
 - 📫 How to reach me :
- </div>
  
-<div> 
+<br/><div> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
