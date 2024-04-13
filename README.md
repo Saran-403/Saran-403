@@ -55,7 +55,7 @@
 
 <h2 align="center"> 💻 Workspace Spec 💻</h2>
 <br>
-<div>
+<div align="center">
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </div>
  <hr/>
